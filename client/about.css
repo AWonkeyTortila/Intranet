@@ -1,6 +1,11 @@
 /* Wonkey, Dec. 13th, 2022 */
 
+html {
+    background-color: black;
+}
+
 p {
     font-size: 15px;
     font-family: Arial;
+    color: white;
 }
