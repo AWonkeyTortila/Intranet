@@ -1,0 +1,10 @@
+Top level overview of the source code:
+
+Client          -> Source code to main page.
+CrappySDKtm     -> Documentation.
+include         -> Include file.
+Online          -> Online Webpages.
+Pages           -> Local Webpages.
+Lisence         -> Legal Lisence.
+README.md       -> Basic README
+Table.txt       -> This stupid file.
