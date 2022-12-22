@@ -17,42 +17,64 @@
     </head>
     <body>
         <h1>Welcome To The Intranet Project!</h1>
+        <p class="announcement-box">Announcement: This code is currently being debugged!</p>
         <hr>
         <div>
             <h1>Links</h1>  <!-- @10:20pm PST, Dec. 4th, Wonkey: Maybe we should find out a way of adding icons next to the links. -->
-            <!-- @8:02pm PST, Dec. 15th, Wonkey: Figure out a way to put 2, 3 links next to each other (cheque Neko Cooking src) -->
-            <a href="../include/Intro.html">Things to-do.</a>
-            <br>
-            <a href="../include/Catalog.html">Cataloge Download store.</a>
-            <br>
-            <a href="../CrappySDKtm/Main.html">Developer Help Center</a>
-            <br>
-            <a href="../include/Gadget.html">Gadget Testing</a>
-            <br>
-            <a href="" onclick="alert('This link does not work.')">Click here.</a>
+            <div>
+                <div style="width: 33.33%; border: 2px solid red; float: left;">   <!-- 12:05pm PST Dec 22th, 2022, Wonkey: Row 1-->
+                    <a href="../include/Intro.html">Things to-do.</a>
+                    <br>
+                    <a href="../include/Catalog.html">Cataloge Download store.</a>
+                    <br>
+                    <a href="../CrappySDKtm/Main.html">Developer Help Center</a>
+                    <br>
+                    <a href="../include/Gadget.html">Gadget Testing</a>
+                    <br>
+                    <a href="../private/test.html">Testing</a>
+                    <br>
+                    <a href="">Julio Iglesias fan page</a>
+                    <br>
+                </div>
+                <div style="width: 33.33%; border: 2px solid lightblue; float: right;">
+                    <a style="margin-right: 50px;" href="./">WinXP PC Hardware</a>
+                    <a href="">test</a>
+                </div>  <!-- 12:47pm, Dec. 22, 2022 @Wonkey: Debug Box refuses to render correctly in IE7, but still works properly. -->
+                <div style="width: 33.33%; border: 2px solid lightseagreen; margin: 0 auto;">
+                    <a href="">testing again</a>
+                    <br>
+                    <a href="">YIPEEE</a>
+                    <br>
+                    <p>filler text</p>
+                    <br>
+                </div>
+            </div>
         </div>
-        <div>
+        <br>
+        <div style="width: 30%; float: left; border: 2px solid lightsalmon;">
             <p>File Size: ?</p> <!-- 300px, 400px -->
-            <iframe style="border: 2px solid black" src="../include/news.txt" height="300px;" width="400px;"></iframe>
+            <iframe style="border: 2px solid black;" src="../include/news.html" height="300px;" width="400px;"></iframe>
+        </div>
+        <div style="width: 30%; border: 2px solid lightgoldenrodyellow; float: left;">
+            <p>For a startup guide, <a href="Guide.html">click here.</a></p>
+            <a href="../include/TOS.rtf">Terms Of Service</a>
+            <br>
+            <a href="../LICENSE">LICENSE</a>
+            <br>
+            <a href="../include/CREDITS.htm">All Contributers</a>
+            <br>
+            <a href="../include/requirments.html">Minimum System Requirements</a>
+            <br>
+            <br>
+            <button onclick="create()" class="btn">About this client</button>
         </div>
     </body>
     <footer>
-        <p>For a startup guide, <a href="Guide.html">click here.</a></p>
-        <a href="../include/TOS.rtf">Terms Of Service</a>
-        <br>
-        <a href="../LICENSE">LICENSE</a>
-        <br>
-        <a href="../include/CREDITS.htm">All Contributers</a>
-        <br>
-        <a href="../include/requirments.html">Minimum System Requirements</a>
-        <br>
-        <br>
-        <button onclick="create()" class="btn">About this client</button>
-<script>
-   var newWindow;
-   function create(){
-      newWindow =window.open('About.html','','width=400,height=350');
-   }
-</script>
+        <script>
+            var newWindow;
+            function create(){
+               newWindow =window.open('About.html','','width=400,height=350');
+            }
+         </script>
     </footer>
 </html>
