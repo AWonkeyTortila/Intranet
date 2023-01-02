@@ -4,3 +4,6 @@ Use the internet offline, and update via git. I'm tired of society and the inter
 Read "Table.txt" for more info about the structure of the source code.
 <br>
 Read ".root/include/CREDITS.html" for project credits!
+<br>
+
+Discord Server: https://discord.gg/eJGJrZgD3V
