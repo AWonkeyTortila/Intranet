@@ -57,3 +57,7 @@ button {
     color: rgb(13, 102, 191);
     font-size: 16px;
 }
+
+.internet {
+    color: red;
+}
