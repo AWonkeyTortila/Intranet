@@ -33,3 +33,11 @@ p {
 .img-1 {
     border: 2px solid black;
 }
+
+.nav2 {
+    background-color: rgb(191, 99, 99);
+    color: rgb(191, 99, 99);
+    width: 80%;
+    margin: auto;
+    padding: 2px;
+}
