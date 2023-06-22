@@ -19,7 +19,7 @@ p {
 a {
     font-size: 18px;
     font-family: monospace;
-    color: blue;
+    color: lightseagreen;
 }
 
 a:link { text-decoration: none; }
@@ -37,4 +37,11 @@ a:active { text-decoration: none; }
 
 .Colour-Red {
     color: red;
+}
+
+
+.aa {
+    font-size: 18px;
+    font-family: monospace;
+    color: blue;
 }
