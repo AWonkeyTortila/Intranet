@@ -45,3 +45,7 @@ a:active { text-decoration: none; }
     font-family: monospace;
     color: blue;
 }
+
+.internet {
+    color: red;
+}
