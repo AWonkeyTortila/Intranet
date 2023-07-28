@@ -1,10 +1,12 @@
 # Intranet
 Use the internet offline, and update via git. I'm tired of society and the internet to be honest.
 
-Read "Table.txt" for more info about the structure of the source code.
-<br>
-Read ".root/include/CREDITS.html" for project credits!
-<br>
-Make sure to download the Release versions!!! Downloading the lastest patches in the three will lead to buggy pages!
+Release's are the most stable versions.
+Latest build's have the newest content but are quite dodgy.
+
+Make sure to periodically update via git.
+Check the SDK place to contribute your own place on the intranet!
+
+Happy surfing, cheers!
 
 Discord Server: https://discord.gg/eJGJrZgD3V
