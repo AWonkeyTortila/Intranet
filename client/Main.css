@@ -61,3 +61,32 @@ button {
 .internet {
     color: red;
 }
+
+.notimpld { /* Not implimented */
+    color: red;
+}
+
+.construction {
+    color: rgb(148, 148, 10);   /* For both light & Dark mode */
+}
+
+.english {
+    color: rgb(52, 119, 131);
+    font-family: monospace;
+}
+
+.spanish {
+    color: #e45a61;
+    font-family: monospace;
+}
+
+.french {
+    color: rgb(42, 30, 147);
+    font-family: monospace;
+}
+
+.ann {
+    font-family: Arial;
+    color: blue;
+    font-size: 16px;
+}
