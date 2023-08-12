@@ -1,0 +1,29 @@
+/*10:05pm, 8/11/23 */
+
+html {
+    background-image: url(./media/b.jpg);
+                                /* WOnkey, 10:48pm: IE8 won't use the scaled-up version (zoomed in) for some reason */
+                                    /* Wonkey, 10:49PM: b.jpg had to be used. */
+    background-size: 1920px 1080px;
+}
+
+@media (min-width: 1080px) {
+    .element {
+        background-size: 1920px 1080px;
+    }
+}
+
+
+.divMain {
+    background-color: rgb(24, 24, 24); /* rbga (x,x,x,.8); doesn't work in IE 8 */
+    opacity: 80%; 
+    width: 80%;
+    margin: auto;
+    opacity: .8;    /* For Internet Explorer */
+}
+
+h1 {
+    font-family: Arial;
+    color: white;
+    opacity: 1;
+}
