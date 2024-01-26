@@ -1,5 +1,4 @@
 /*7:29pm, 11/22/23 */
-
 html {
     background-color: black;
 }
@@ -7,4 +6,18 @@ html {
 h1{
     font-family: monospace;
     color: white;
+}
+
+.info{
+    color: lightseagreen;/*Wed, 24, 2024. 11.27am*/
+    font-family: monospace;
+    font-size: 18px;
+    width: 80%;
+    margin:auto;
+}
+
+.titlebar{
+    width: 80%;
+    margin: auto; 
+    border: 2px solid white;
 }
