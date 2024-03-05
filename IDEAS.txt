@@ -1,0 +1,14 @@
+// Created on March 5th, 2024
+// 1:18PM PST.
+
+
+// TODO / Ideas
+-- Multi-language support
+-- Real-Time Clock
+-- Widgets (Line 7)
+
++ This is ment to no longer ment ot be a basic website bundle of random apps ment to be used offline,
++ But as a parrallel internet, away from greed, corruption, AI, etc.
++ This is ment to be the Internet, by people, for people, and soley people.
+
+                      -- Wonkey
