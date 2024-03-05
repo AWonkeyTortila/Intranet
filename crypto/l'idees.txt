@@ -5,3 +5,9 @@ March 5th, 2024.
 
 Perhaps a certificate system? That allows people to verify cotent is made by human beings?
 How will it protect from AI Images however?
+
+13:24PM
+
+// Wonkey:
+
+Maybe a code system? A Random string of letters that corresponds to a developers username, alongside an ID number?
