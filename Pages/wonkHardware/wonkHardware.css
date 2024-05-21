@@ -78,3 +78,15 @@ a:active { text-decoration: none; }
     margin: auto;
     padding: 2px;
 }
+
+.nav6 {
+    background-color: rgb(231, 142, 142);
+    color: rgb(231, 142, 142);    
+    width: 99.7%;
+    margin: auto;
+    padding: 2px;
+}
+
+.CopyrightHeader {
+    font-size: xx-small;
+}
