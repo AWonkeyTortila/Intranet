@@ -9,4 +9,4 @@ Check the SDK place to contribute your own place on the intranet!
 
 Happy surfing, cheers!
 
-Discord Server: https://discord.gg/eJGJrZgD3V
+Discord Server: https://discord.gg/GBgExpZgGY
