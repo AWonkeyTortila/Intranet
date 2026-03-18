@@ -17,3 +17,6 @@ These are also the following guidelines:
 1. This project supports every OS/Browser from this millenium, just please, use IE 8 or above..
 2. When using browsers such as Internet Explorer, make sure you use UTF-8. Just right click > encoding > UTF-8
 3. If you want to contribute, use the github page: (https://github.com/AWonkeyTortila/Intranet)
+
+Aditional Notes:
+1. Be careful clicking on (internet) links on older Operating sytems -- or using the internet without a **HEFTY** Firewall

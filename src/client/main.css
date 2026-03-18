@@ -76,7 +76,7 @@ a { /* default link color on the intranet, but feel free to use any color on you
 }
 
 .a-yield { /* under construction */
-    color: orange;
+    color: rgb(196, 136, 26); /* formerly 'orange' */
 }
 
 .a-go { /* just in case */
