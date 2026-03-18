@@ -1,0 +1,19 @@
+Hello!
+
+By using this program, and its derrivities (where this persists),
+you agree to the following rules & tips:
+
+1. You will not upload copyrighted works onto this project (without permission.)
+2. You will not brake any laws within: THE UNITED STATES OF AMERICA.
+3. You will not mess with other peoples' pages/work.
+4. Other languages besides English are permitted, but also subject to light moderation (previous rules).
+5. Freedom of speech is permitted, just abide by the last few rules is all.
+6. If you plan on making a derivative of the INTRANET, just include the BSD-2 lisence for good faith :)
+7. You will have a good time :)
+
+These rules are subject to change, so we'll notify you all :)
+
+These are also the following guidelines:
+1. This project supports every OS/Browser from this millenium, just please, use IE 8 or above..
+2. When using browsers such as Internet Explorer, make sure you use UTF-8. Just right click > encoding > UTF-8
+3. If you want to contribute, use the github page: (https://github.com/AWonkeyTortila/Intranet)

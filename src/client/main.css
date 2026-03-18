@@ -1,0 +1,84 @@
+/* 11:36am, PST 2025 8/29/25 */
+
+html {
+    background-color: rgb(45, 131, 230);
+}
+
+.box {
+    background-color: grey;
+    border: 2px solid black;
+}
+
+.internal-box {
+    background-color: rgb(180, 204, 235);
+}
+
+p {
+    color: black;
+    font-family: serif;
+}
+
+/* imported from OpenWiki*/
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+h1 {
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+    font-weight: lighter;
+}
+
+a { /* default link color on the intranet, but feel free to use any color on your own personal page :) */
+    color:rgb(59, 35, 192);
+}
+
+.a {
+    color: rgb(50, 50, 228);
+}
+
+.b {
+    color:mediumseagreen;
+}
+
+.internal-box-white {
+    background-color: rgb(255, 255, 255);
+}
+
+/* warning, yield and go are for text colors */
+.warning {
+    color: red;
+    font-family: monospace;
+    /* font-size: 10px; */
+}
+
+.yield {
+    color: orange;
+    font-family: monospace;
+}
+
+.go {
+    color: green;
+    font-family: monospace;
+}
+
+.internal-box-black {
+    background-color: rgb(26, 26, 26);
+}
+
+/* .p2 {
+    color: white;
+} */
+
+/* for links */
+.a-warning { /* not implimented */
+    color: red;
+}
+
+.a-yield { /* under construction */
+    color: orange;
+}
+
+.a-go { /* just in case */
+    color: green;
+}
